@@ -1,0 +1,24 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 16
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "chukwa_v2",
+            "host": "us.turtlecoin.herominers.com",
+            "niceHash": true,
+            "password": "x",
+            "port": 1160,
+            "priority": 0,
+            "rigID": "xavix",
+            "ssl": false,
+            "username": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR.$(shuf -i 10-9999999999999999999 -n 1)"
+        }
+        
+    ]
+}
