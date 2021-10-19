@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 16
+            "threadCount": 60
         }
     },
     "pools": [
