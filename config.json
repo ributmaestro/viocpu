@@ -9,11 +9,11 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa_v2",
-            "host": "us.turtlecoin.herominers.com",
+            "algorithm": "chukwa",
+            "host": "superblockchain.con-ip.com",
             "niceHash": true,
             "password": "x",
-            "port": 1160,
+            "port": 11151,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
